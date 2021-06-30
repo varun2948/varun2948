@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepak Pradhan - [Varun] 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [Office Projects][workingon]!
+- 🔭 I’m currently working on a Office Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Tech Enthusiast.
 - 🥅 2020 Goals: Contribute more to Open Source projects
