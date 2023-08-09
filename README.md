@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepak Pradhan - [Varun] 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on multiple office Projects
+- 🔭 I’m currently working on HOTOSM - FMTM & Contributing to OpenSource
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Tech Enthusiast.
 - 🥅 2023 Goals: Contribute more to Open Source projects
