@@ -52,8 +52,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun2948)](https://github.com/varun2948/react-slingshot)
 ---
-[![Blood Donation App](https://github-readme-stats.vercel.app/api/pin/?username=varun2948&repo=blood_react_native)](https://github.com/varun2948/blood_react_native)
-[![Krato Ecommerce WebApp](https://github-readme-stats.vercel.app/api/pin/?username=varun2948&repo=kratos_ecommerce)](https://github.com/varun2948/kratos_ecommerce)
+[![HOTOSM-FMTM](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=fmtm)](https://github.com/hotosm/fmtm)
+[![OSMSG](https://github-readme-stats.vercel.app/api/pin/?username=kshitijrajsharma&repo=OSMSG)](https://github.com/kshitijrajsharma/OSMSG)
 [![Advance Todo App (JAVA)](https://github-readme-stats.vercel.app/api/pin/?username=varun2948&repo=DMA)](https://github.com/varun2948/DMA)
 ---
 [workingon]: https://fmtm.hotosm.org
