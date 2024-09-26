@@ -1,4 +1,5 @@
-### Hi there, I'm Deepak Pradhan - [Varun] 👋
+### Hi there, I'm Deepak Pradhan
+- Nickname: Varun 👋
 
 ## I'm a Developer!
 - 🔭 I’m currently working on HOTOSM - FMTM & Contributing to OpenSource
