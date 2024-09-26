@@ -1,8 +1,8 @@
 ### Hi there, I'm Deepak Pradhan
 - Nickname: Varun 👋
 
-## I'm a Developer!
-- 🔭 I’m currently working on HOTOSM - FMTM & Contributing to OpenSource
+## I'm a FullStack Developer!
+- 🔭 I’m currently working on HOTOSM - FMTM/TM Contributing to OpenSource.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Tech Enthusiast.
 - 🥅 2023 Goals: Contribute more to Open Source projects
