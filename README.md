@@ -2,11 +2,11 @@
 - Nickname: Varun 👋
 
 ## I'm a FullStack Developer!
-- 🔭 I’m currently working on HOTOSM - FMTM/TM Contributing to OpenSource.
+- 🔭 I’m currently studying Master's in Computer Science (Specialization in AI).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Tech Enthusiast.
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar / 
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play guitar 
 
 ### Contributions:
 <b>:fire: Github Streaks</b>
