@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepak Pradhan
 - Nickname: Varun 👋
 
-## I'm a FullStack Developer!
+## I'm a Software Engineer!
 - 🔭 I’m currently studying Master's in Computer Science (Specialization in AI).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Tech Enthusiast.
